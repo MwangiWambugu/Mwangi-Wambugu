@@ -4,7 +4,7 @@
 
 
 
-Hello, I'm Felix a junior full-stack software engineer with a knack for frontend web development (primarily). Ready to gain more experience, improve on code practices, and contribute to innovative projects. Currently, exploring new technologies, reading a lot and solving DSAs. 
+Hello, I'm Mwangi, a Data Scientist. Currently, exploring new technologies, reading a lot and solving DSAs. 
 
 ### 🛠️ Technologies and Tools
 ![Postman](https://img.shields.io/badge/Postman-View%20Collection-blue?logo=postman)
